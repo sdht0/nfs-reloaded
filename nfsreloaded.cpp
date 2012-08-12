@@ -1,16 +1,3 @@
-/*
- *
- * Need for Speed Reloaded
- *
- * A simple car racing game in which you have to save your car
- * from the oncoming opponents' cars.
- *
- * Author: 	Siddhartha Sahu
- * Version History:	
- *      2.0       Date:	June 11, 2009, rewrite using class
- *      1.0       Date:	December 12, 2008, Initial code base
- */
-
 /***************************************************************************
 ***************************** All Header Files *****************************
 ***************************************************************************/

@@ -7,3 +7,6 @@ License: GPL v3.0
 Version History:
     2.0       Date: June 11, 2009, rewrite using a class
     1.0       Date: December 12, 2008, Initial code base
+
+This was created as a school project using the historical TurboC compiler and uses headers such as graphics.h, conio.h and dos.h. Couldn't get this to compile on modern machines.
+I may port this to a modern GUI toolkit sometime.

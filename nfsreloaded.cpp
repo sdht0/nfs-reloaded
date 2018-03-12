@@ -717,7 +717,7 @@ void game::inttochar(int& num, int x, int y, int change, char ch)
 void main()
 {
     int gm, gd = DETECT;
-    initgraph(&gd, &gm, "\\tc\\bgi");
+    initgraph(&gd, &gm, "\\turboc3\\bgi");
     game ob;
     ob.menu();
 }

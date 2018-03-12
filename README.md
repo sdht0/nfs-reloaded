@@ -2,9 +2,11 @@
 
 ## About
 
-This is a simple car racing game in which you have to save your car from the
-oncoming cars. This was created as a school project using the historical 
-TurboC++ compiler and uses headers such as graphics.h, conio.h and dos.h.
+This is a simple car racing game in which you have to guide your car through
+the oncoming traffic. I wrote this for a high school class project and is one 
+of my first substantial coding project. I used the historical TurboC++ compiler
+which had headers such as graphics.h, conio.h, and dos.h to provide I/O and 
+drawing functionalities.
 
 ## How to run
 
